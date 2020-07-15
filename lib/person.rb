@@ -1,4 +1,5 @@
-# your code goes herclass Person 
+# your code goes her
+class Person 
 
     attr_reader :name , :happiness, :hygiene
     attr_accessor :bank_account  
